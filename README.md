@@ -10,5 +10,13 @@ Em serviços como esses, o churn rate representa a taxa de cancelamento de assin
 
 **Churn** também pode ser usado para identificar potenciais cancelamentos, com um tempo de antecedência, e promover ações direcionadas para tentar reter tais clientes. Essa métrica deve receber atenção pelo fato de que o Custo de Aquisição de Cliente (CAC) é normalmente mais alto que o custo para mantê-los. Ou seja, um alto valor para o *churn rate* é o que não desejamos. Neste projeto, o objetivo é criar um modelo que seja capaz de identificar com os clientes que têm maior probabilidade de cancelar seus serviços.
 
-Confira o projeto completo através deste link: http://bit.ly/4lbbcr8
+Confira o projeto completo através deste  [link](http://bit.ly/4lbbcr8)
+
+
+## Deploy do modelo com Streamlit
+Um aplicativo foi desenvolvido com Streamlit para a execução do modelo. 
+Você pode acessá-lo por meio deste [link](https://churn-prediction-app-kw9w.onrender.com)
+
+## Artigo sobre o projeto
+Você pode conferir o artigo completo que detalha todo o desenvolvimento, desde análise exploratória até avaliação dos modelos, neste [link](http://bit.ly/4lbbcr8)
 
