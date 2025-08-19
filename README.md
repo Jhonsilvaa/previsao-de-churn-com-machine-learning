@@ -18,5 +18,5 @@ Um aplicativo foi desenvolvido com Streamlit para a execução do modelo.
 Você pode acessá-lo por meio deste [link](https://churn-prediction-app-kw9w.onrender.com)
 
 ## Artigo sobre o projeto
-Você pode conferir o artigo completo que detalha todo o desenvolvimento, desde análise exploratória até avaliação dos modelos, neste [link](http://bit.ly/4lbbcr8)
+Você pode conferir o artigo completo que detalha todo o desenvolvimento, desde análise exploratória até avaliação dos modelos, neste [link](https://medium.com/@jhonatasassumpcao/previs%C3%A3o-de-churn-com-machine-learning-f92e4bac3c86)
 
